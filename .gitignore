@@ -15,7 +15,7 @@ nupkg/
 .vs/
 *.mp4
 *.csv
-
+*.zip
 # Fleet
 .fleet/
 
